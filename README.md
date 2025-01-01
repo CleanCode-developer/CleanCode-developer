@@ -43,8 +43,8 @@ Here are some of my notable projects:
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+
+[![ Join Our Discord!](https://img.shields.io/badge/-JoinOurDiscord!-1DA1F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/2rQDxPTb)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/CleanCode-developer)
 
 
