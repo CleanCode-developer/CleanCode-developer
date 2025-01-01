@@ -37,10 +37,9 @@ I'm a passionate software developer who loves writing clean and efficient code. 
 
 Here are some of my notable projects:
 
-- [Project 1](link-to-project) - Brief description of the project.
-- [Project 2](link-to-project) - Brief description of the project.
-- [Project 3](link-to-project) - Brief description of the project.
-
+- [Project 1](link-to-project) - Adix(OLD).
+- [Project 2](link-to-project) - Papver!
+- [Project 3](link-to-project) - Canvascript!
 ## 🔗 Connect with Me
 
 
